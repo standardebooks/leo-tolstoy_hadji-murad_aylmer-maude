@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/hadji-murad/aylmer-maude</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-10-08T23:23:54Z</dc:date>
+		<meta property="dcterms:modified">2020-10-08T23:23:54Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,23 +29,25 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Hadji Murád</dc:title>
 		<meta property="file-as" refines="#title">Hadji Murád</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Tolstoy, Leo, graf, 1828-1910--Translations into English.</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The legendary warrior Hadji Murád struggles to free his family against the backdrop of Russian imperialism in Chechnya and Dagestan.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In this short novel, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt; fictionalizes the final days of Hadji Murád, a legendary Avar separatist who fought against, and later with, Russia, as the Russian Empire was struggling to annex Chechnya and the surrounding land in the late 1840s.&lt;/p&gt;
+			&lt;p&gt;The novel opens with the narrator finding a thistle crushed in a blooming field, which reminds him of Hadji Murád and his tragic tale. As the narrator recounts the story the reader is quickly thrust into the rich, colorful history of the Caucuses, and its people’s fight against Russian imperialism.&lt;/p&gt;
+			&lt;p&gt;Hadji Murád is portrayed as a legendary and imposing, yet friendly and approachable figure. Despite his reputation, it seems that his best days are behind him; as the novel opens, Murád is fleeing Shamil, a powerful imam who has captured Murád’s family. Murád finds himself thrust between the invading Russians one one side, and Shamil’s vengeance on the other.&lt;/p&gt;
+			&lt;p&gt;As Murád and tiny but loyal group of warriors try to forge alliances in their attempt to rescue Murád’s family, they quickly find themselves politically outclassed. The Russians are Murád’s enemies, yet only they can help him in his struggle against Shamil; and after years of losses incurred by Murád’s guerrilla tactics, the Russians would like his help but cannot trust him. Shamil, on the other hand, is a deep link to the region’s complex web of tribal blood feuds, vengeances, reprisals, and quarrels over honor. He’s one of the few powers left standing between the Russians and their control of the Caucuses, but Murád can’t rescue his family from Shamil’s clutches without the help of the Russians.&lt;/p&gt;
+			&lt;p&gt;Murád’s impossible position, the contradiction between his legendary past and his limping, dignified, and ultimately powerless present, and the struggles of a people torn by internecine conflict against a mighty empire, form the major thematic threads of the novel. As the story progresses Tolstoy characterizes various real-life historical personalities besides Hadji Murád and Shamil, like Emperor Nicholas I, Mikhail Loris-Melikov, and Count Vorontsov-Dashkov.&lt;/p&gt;
+			&lt;p&gt;The novel was one of the last that Tolstoy finished before his death, and was only published posthumously in 1912. Tolstoy himself served in the Crimean War, and the war scenes portrayed in the novel echo his personal experiences. Despite this being such a late entry in Tolstoy’s corpus, it has been highly praised by many critics, both contemporary and modern, with the famous critic Harold Bloom going so far as to say that &lt;i&gt;Hadji Murád&lt;/i&gt; is “my personal touchstone for the sublime of prose fiction, to me the best story in the world, or at least the best I have ever read.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Hadji_Murad</dc:source>
 		<dc:source>https://books.google.com/books?id=xg4WAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">The original transcription is from a later edition, which changes a lot of punctuation to make for much less smooth reading. The punctuation from the 1912 edition has been restored here, but an addition in chapter 11 present in the later edition, in which Murád recounts a song from his mother, is retained.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48786</meta>
+		<meta property="se:reading-ease.flesch">69.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hadji_Murad</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_hadji-murad_aylmer-maude</meta>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
