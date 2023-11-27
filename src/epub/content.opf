@@ -45,7 +45,7 @@
 		<dc:source>https://en.wikisource.org/wiki/Hadji_Murad</dc:source>
 		<dc:source>https://books.google.com/books?id=xg4WAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">The original transcription is from a later edition, which changes a lot of punctuation to make for much less smooth reading. The punctuation from the 1912 edition has been restored here, but an addition in chapter 11 present in the later edition, in which Murád recounts a song from his mother, is retained.</meta>
-		<meta property="se:word-count">48789</meta>
+		<meta property="se:word-count">48791</meta>
 		<meta property="se:reading-ease.flesch">69.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hadji_Murad_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_hadji-murad_aylmer-maude</meta>
