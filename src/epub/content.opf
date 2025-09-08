@@ -52,8 +52,8 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_hadji-murad_aylmer-maude</meta>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Лев Никола́евич Толсто́й</meta>
 		<meta property="se:name.person.full-name" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
+		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leo_Tolstoy</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79068416</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -67,7 +67,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Jan Ciągliński</dc:contributor>
 		<meta property="file-as" refines="#artist">Ciągliński, Jan</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Ян (Иван) Францевич Ционглинский</meta>
+		<meta property="alternate-script" refines="#author">Ян (Иван) Францевич Ционглинский</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jan_Ci%C4%85gli%C5%84ski</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2019123826</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
