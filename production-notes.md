@@ -1,0 +1,1 @@
+The original transcription is from a later edition, which changes a lot of punctuation to make for much less smooth reading. The punctuation from the 1912 edition has been restored here, but an addition in chapter 11 present in the later edition, in which Murád recounts a song from his mother, is retained.
