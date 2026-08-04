@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The legendary warrior Hadji Murád struggles to free his family against the backdrop of Russian imperialism in Chechnya and Dagestan.</dc:abstract>
+		<meta property="schema:abstract">The legendary warrior Hadji Murád struggles to free his family against the backdrop of Russian imperialism in Chechnya and Dagestan.</meta>
 		<dc:description>
 			&lt;p&gt;In this short novel, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt; fictionalizes the final days of Hadji Murád, a legendary Avar separatist who fought against, and later with, Russia, as the Russian Empire was struggling to annex Chechnya and the surrounding land in the late 1840s.&lt;/p&gt;
 			&lt;p&gt;The novel opens with the narrator finding a thistle crushed in a blooming field, which reminds him of Hadji Murád and his tragic tale. As the narrator recounts the story, the reader is quickly thrust into the rich, colorful history of the Caucuses, and its people’s fight against Russian imperialism.&lt;/p&gt;
