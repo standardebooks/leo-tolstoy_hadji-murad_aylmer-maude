@@ -54,7 +54,7 @@
 		<link href="https://github.com/standardebooks/leo-tolstoy_hadji-murad_aylmer-maude" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
-		<meta property="schema:alternateName" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
+		<meta property="schema:alternateName" refines="#author">Lev Nikolayevich Tolstoy</meta>
 		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<link href="https://en.wikipedia.org/wiki/Leo_Tolstoy" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79068416.html" refines="#author" rel="schema:sameAs"/>
@@ -69,7 +69,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Jan Ciągliński</dc:contributor>
 		<meta property="file-as" refines="#artist">Ciągliński, Jan</meta>
-		<meta property="alternate-script" refines="#author">Ян (Иван) Францевич Ционглинский</meta>
+		<meta property="alternate-script" refines="#artist">Ян (Иван) Францевич Ционглинский</meta>
 		<link href="https://en.wikipedia.org/wiki/Jan_Ci%C4%85gli%C5%84ski" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no2019123826.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
